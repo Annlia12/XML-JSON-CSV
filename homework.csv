@@ -1,0 +1,6 @@
+phone, price, color, availability 
+iphone 8, 8000, white, true
+iphone X, 10000, black, true
+iphone 11, 12000, blue, false
+iphone 12, 15500, red, true
+iphone 12pro, 20000, green, false

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<models>
+		<model>
+			<phone>iphone 8</phone>
+			<price>8000</price>
+			<color>white</color>
+			<availability>true</availability>
+		</model>
+		<model>
+			<phone>iphone X</phone>
+			<price>10000</price>
+			<color>black</color>
+			<availability>true</availability>
+		</model>
+		<model>
+			<phone>iphone 11</phone>
+			<price> 12000</price>
+			<color>blue</color>
+			<availability>false</availability>
+		</model>
+		<model>
+			<phone>iphone 12</phone>
+			<price>15500</price>
+			<color>red</color>
+			<availability>true</availability>
+		</model>
+		<model>
+			<phone>iphone 12pro</phone>
+			<price>20000</price>
+			<color>green</color>
+			<availability>false</availability>
+		</model>
+	</models>

@@ -1,0 +1,34 @@
+{
+	"phone model": [
+		{
+			"phone": "iphone 8",
+			"price": 8000,
+			"color": "white",
+			"availability": true
+		},
+		{
+			"phone": "iphone X",
+			"price": 10000,
+			"color": "black",
+			"availability": true
+		},
+		{
+			"phone": "iphone 11",
+			"price": 12000,
+			"color": "blue",
+			"availability": false
+		},
+		{
+			"phone": "iphone 12",
+			"price": 15500,
+			"color": "red",
+			"availability": true
+		},
+		{
+			"phone": "iphone 12pro",
+			"price": 20000,
+			"color": "green",
+			"availability": false
+		}
+	]
+}
